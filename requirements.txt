@@ -1,0 +1,2 @@
+# Este proyecto no requiere dependencias externas.
+# Las demos usan únicamente la biblioteca estándar de Python.
