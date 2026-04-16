@@ -1,0 +1,15 @@
+{
+  "version": "2.0",
+  "routeKey": "$default",
+  "rawPath": "/",
+  "rawQueryString": "nombre=Genesis",
+  "queryStringParameters": {
+    "nombre": "Genesis"
+  },
+  "requestContext": {
+    "http": {
+      "method": "GET",
+      "path": "/"
+    }
+  }
+}
